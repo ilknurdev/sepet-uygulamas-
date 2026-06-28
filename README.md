@@ -1,1 +1,1 @@
-# sepet-uygulamas-
+# sepet-uygulaması-
